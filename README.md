@@ -11,7 +11,7 @@ The main objectives of the project are to learn:
    ```bash
    make
    ```
-  This will compile and run the executable.
+   This will compile and run the executable.
   
 3. Follow the instruction in the code
 
